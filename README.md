@@ -8,6 +8,7 @@
 ## About Team
 **팀명**   
 - lattecode(라떼코드)  
+  
 **팀사진**  
   
 ![teamImage](https://user-images.githubusercontent.com/51515055/78589417-21b45b80-787b-11ea-8c24-e619f1d3c814.PNG)
