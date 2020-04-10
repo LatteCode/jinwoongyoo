@@ -4,8 +4,13 @@
 ## About Me
 **이름**  
 - 유진웅  
+- [나의깃헙페이지](https://krumaska.github.io)
 
-## About Team
+## About Team  
+**팀구성원**  
+- 저희 팀은 모두 자람 학회에 속해 있습니다.  
+- 김영균, 임종협, 유진웅, 홍석민  
+
 **팀명**   
 - lattecode(라떼코드)  
   
